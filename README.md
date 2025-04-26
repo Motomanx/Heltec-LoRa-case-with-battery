@@ -12,7 +12,7 @@
 
 - Preferable to use PETG
 - Due to the reduced thickness, 100% filling is recommended.
-
+- Use 2mm screws
 
 ![Assieme 1](https://github.com/Motomanx/Heltec-LoRa-case-with-battery/blob/main/Assieme1.png)
 
