@@ -14,9 +14,9 @@
 - Due to the reduced thickness, 100% filling is recommended.
 
 
-![Assieme 1](/immagini_markdown/gatto.png)
+![Assieme 1](https://github.com/Motomanx/Heltec-LoRa-case-with-battery/blob/main/Assieme1.png)
 
-![Assieme 2](/immagini_markdown/gatto.png)
+![Assieme 2](https://github.com/Motomanx/Heltec-LoRa-case-with-battery/blob/main/Assieme2.png)
 
 ## GitHub Ricardo Guzman for Lora APRS FW
 
