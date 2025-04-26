@@ -14,7 +14,7 @@
 - Due to the reduced thickness, 100% filling is recommended.
 - Use 2mm screws
 
-### Harware 
+### Hardware 
 | Type | Link |
 | ------ | ------ |
 | Heltec | [https://www.amazon.it/dp/B0CWTPRWJN?ref=ppx_yo2ov_dt_b_fed_asin_title][Heltec] |
